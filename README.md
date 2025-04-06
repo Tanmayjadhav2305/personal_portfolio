@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 💼 Personal Portfolio – Tanmay Jadhav
 
 Welcome to the source code of my **personal portfolio website** – a modern, responsive web app designed to showcase who I am, what I’ve built, and where I’m headed in the tech world.
@@ -86,3 +87,7 @@ Made with ❤️ by Tanmay Jadhav
 ```bash
 Let me know if you'd like a badge section (like GitHub stars, license info), or markdown shields at the top. Want a version with images/screenshots or walkthrough GIFs too? I can help with that!
 
+=======
+# personal_portfolio
+This repository contains the source code for my personal portfolio website. It showcases my skills, projects, certifications, and professional journey. Built using modern web technologies like React, TypeScript, and TailwindCSS, the portfolio is fully responsive and optimized for both desktop and mobile devices.
+>>>>>>> a889c1ccffe58f53a73cddc33ac56a937b80a00b
