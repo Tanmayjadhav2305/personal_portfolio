@@ -5,7 +5,7 @@ Welcome to the source code of my **personal portfolio website** – a modern, re
 
 ## 🌐 Live Portfolio:
 
-🔗 [https://digital-developer-glow.lovable.app](https://digital-developer-glow.lovable.app)
+🔗 http://tanmayjadhav.vercel.app
 
 ## 🛠 Tech Stack:
 
